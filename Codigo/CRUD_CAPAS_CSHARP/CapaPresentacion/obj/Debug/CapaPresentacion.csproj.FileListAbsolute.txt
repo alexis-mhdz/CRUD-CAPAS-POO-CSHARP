@@ -1,0 +1,16 @@
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\obj\Debug\CapaPresentacion.FormEmpleado.resources
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

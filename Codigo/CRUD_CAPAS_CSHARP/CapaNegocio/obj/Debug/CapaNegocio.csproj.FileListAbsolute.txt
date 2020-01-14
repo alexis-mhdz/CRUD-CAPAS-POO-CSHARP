@@ -1,0 +1,10 @@
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaNegocio\obj\Debug\CapaNegocio.pdb

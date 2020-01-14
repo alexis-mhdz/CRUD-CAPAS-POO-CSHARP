@@ -1,0 +1,8 @@
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Sony\source\repos\CRUD_CAPAS_CSHARP\CapaDatos\obj\Debug\CapaDatos.pdb
